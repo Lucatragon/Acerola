@@ -48,6 +48,10 @@ either an O or an X.
     the code inside of folders in this folder has not been licensed VFL, and the
     license to the material inside of folders in this folder has been included.
 
+Developer Note: Intellectual Property, Acerola's logo, Acerola's CORE sounds, and 
+anything else that appears as a filepath in NOT_VFL.txt have not been licensed as
+VFL2; everything else has.
+
 SECTION 1: DEFINITIONS
 ----------------------------------------------------------------------------------
 As used in this License, the following terms have the specific meanings:
